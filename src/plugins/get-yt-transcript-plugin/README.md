@@ -1,1 +1,0 @@
-# get-yt-transcript-plugin
